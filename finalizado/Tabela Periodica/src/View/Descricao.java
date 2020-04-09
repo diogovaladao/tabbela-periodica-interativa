@@ -21,7 +21,7 @@ public final class Descricao extends javax.swing.JDialog {
     public void Hidrogenio() {
         setTitle("Hidrogênio");//1
         jtfMassa.setText("1,00794");
-        jlElemento.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Icones/gas.jpg")));
+        jlElemento.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Icones/Helio.jpg")));
         jtaDescricao.setText("Nas CNTP é um gás incolor, inodoro e insípido, além de ser a substância mais leve que se conhece. Cavendish determinou a verdadeira\n"
                 + "natureza do gás, que chamou 'ar inflamável' em 1766. Em 1781 provou que o hidrogênio ardia no ar e dava unicamente água. Seu nome deriva do\n"
                 + "grego hydro + genes 'formador de água', e foi usado pela primeira vez por Lavousier.\n"
