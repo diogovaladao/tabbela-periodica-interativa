@@ -21,7 +21,7 @@ public final class Descricao extends javax.swing.JDialog {
     public void Hidrogenio() {
         setTitle("Hidrogênio");//1
         jtfMassa.setText("1,00794");
-        jlElemento.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Icones/Helio.jpg")));
+        jlElemento.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Icones/gas.jpg")));
         jtaDescricao.setText("Nas CNTP é um gás incolor, inodoro e insípido, além de ser a substância mais leve que se conhece. Cavendish determinou a verdadeira\n"
                 + "natureza do gás, que chamou 'ar inflamável' em 1766. Em 1781 provou que o hidrogênio ardia no ar e dava unicamente água. Seu nome deriva do\n"
                 + "grego hydro + genes 'formador de água', e foi usado pela primeira vez por Lavousier.\n"
@@ -37,7 +37,7 @@ public final class Descricao extends javax.swing.JDialog {
     public void Helio() {//2
         setTitle("Hélio");
         jtfMassa.setText("4,002");
-        jlElemento.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Icones/helio.jpg")));
+        jlElemento.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Icones/Helio.jpg")));
         jtaDescricao.setText("O mais leve elemento conhecido depois do hidrogênio. Foi descoberto em 1868 na atmosfera do Sol por P. Janssen e J. Norman Lockyer, ainda\n"
                 + "no mesmo ano mostrou que o hélio é um dos componentes da atmosfera.\n"
                 + "O hélio ocorre em pequenas quantidades em minerais radioativos, meteoritos e certos gases naturais encontrados principalmente nos EUA e no \nCanadá."
